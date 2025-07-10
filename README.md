@@ -1,11 +1,8 @@
-<h1 align="center">👨‍💻 Mohammed Mahjari – Full-Stack Web Developer</h1>
+# 👨‍💻 [Mohammed Mahjari](https://m7md.co) – Full-Stack Web Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-mohjri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/M7MDdev1">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" />
   </a>
   <a href="https://m7md.co">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel" />
@@ -20,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
@@ -37,7 +35,7 @@
 
 ### 📄 Resume
 
-- [View Resume (Google Drive)](https://drive.google.com/file/d/1IFovPaeG4uGqznLRepLKrt3F1QNZk_y0/view?usp=sharing)
+- [View Resume](https://www.m7md.co/cv.pdf)
 
 ---
 
